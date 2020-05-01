@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="120px" height="119px" viewBox="0 0 120 119" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="Cart" transform="translate(1.5 1.5)">
+    <path d="M58.5 116C90.8087 116 117 90.0325 117 58C117 25.9675 90.8087 0 58.5 0C26.1913 0 0 25.9675 0 58C0 90.0325 26.1913 116 58.5 116Z" id="Oval" fill="#6ED400" stroke="none" />
+    <path d="M0 0L7 1.7053e-13L14 24L38 24L43 7" transform="translate(35 42.5)" id="Path-2" fill="none" stroke="#FFFFFF" stroke-width="3" />
+    <path d="M3.37566 6.75132C5.23999 6.75132 6.75132 5.23999 6.75132 3.37566C6.75132 1.51133 5.23999 0 3.37566 0C1.51134 0 0 1.51133 0 3.37566C0 5.23999 1.51134 6.75132 3.37566 6.75132Z" transform="translate(49 73)" id="Oval" fill="none" stroke="#FFFFFF" stroke-width="3" />
+    <path d="M3.37566 6.75132C5.23999 6.75132 6.75132 5.23999 6.75132 3.37566C6.75132 1.51133 5.23999 0 3.37566 0C1.51133 0 0 1.51133 0 3.37566C0 5.23999 1.51133 6.75132 3.37566 6.75132Z" transform="translate(65 73)" id="Oval" fill="none" stroke="#FFFFFF" stroke-width="3" />
+    <path d="M2.27554e-13 7L6 13L19 0" transform="translate(54 39)" id="Path" fill="none" stroke="#FFFFFF" stroke-width="3" />
+  </g>
+</svg>
